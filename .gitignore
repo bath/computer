@@ -87,3 +87,6 @@ captures/
 .idea/
 *.swp
 .direnv/
+
+# ─── Git worktrees ───────────────────────────────────────────────────────────
+.worktrees/
